@@ -30,6 +30,40 @@
 
 ---
 
+### 🔒 My Security Stack
+
+<p align="center">
+  <a href="https://www.kali.org" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.metasploit.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/METASPLOIT-258FFA?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  </a>
+  <a href="https://www.wireshark.org" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
+  <a href="https://nmap.org" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/BURP_SUITE-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/BASH_SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  </a>
+  <a href="https://www.git-scm.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 ### 🛠️ Tools I'm Learning With
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
