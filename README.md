@@ -42,9 +42,6 @@
   <a href="https://www.python.org" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://www.metasploit.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/METASPLOIT-258FFA?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  </a>
   <a href="https://www.wireshark.org" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   </a>
