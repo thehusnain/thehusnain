@@ -48,9 +48,6 @@
   <a href="https://nmap.org" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/BURP_SUITE-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/BASH_SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   </a>
