@@ -59,14 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="ssh" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Wireshark_logo.png" alt="wireshark" width="45" height="45"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/22149440?s=200&v=4" alt="burpsuite" width="45" height="45"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/terminal.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/computer.gif" width="40"/>
 </p>
 ---
 
