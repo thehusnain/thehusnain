@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  🐧 Linux Adventurer | 🛡️ Ethical Hacking Learner | 💻 CS Undergraduate
+  🐧 Linux Adventurer | 🛡️ Ethical Hacking Learner | 💻 CS Undergrad
 </h3>
 
 ---
@@ -12,22 +12,13 @@
 ### 🌟 My Hacking Journey
 <p>
   <img src="https://github.com/ritik307/ritik307/raw/main/images/wave.gif" width="40" />
-Hi! I'm <b>Husnain</b>, a curious <b>Computer Science student</b> fueled by a passion for <b>cybersecurity</b> & hands-on learning.<br/>
-  <br/> Currently diving deep into <b>ethical hacking</b> with Kali Linux
-  <br/> Exploring <b>Linux & security tools</b>—from terminals to toolkits
-  <br/> Gained foundation in <b>wifi/network penetration</b>, now venturing into <b>web application pentesting</b>
-  <br/> Always experimenting, breaking, and fixing—because that's how the best hackers learn!
-  <br/> Building my skills one exploit at a time 
+  Hi! I'm <b>Husnain</b>, a curious <b>Computer Science student</b> fueled by a passion for <b>cybersecurity</b> & hands-on learning.<br/>
+  <br/>🚀 Currently diving deep into <b>ethical hacking</b> with Kali Linux
+  <br/>🧑‍💻 Exploring <b>Linux & security tools</b>—from terminals to toolkits
+  <br/>📡 Gained foundation in <b>wifi/network penetration</b>, now venturing into <b>web application pentesting</b>
+  <br/>🔍 Always experimenting, breaking, and fixing—because that's how the best hackers learn!
+  <br/>🎓 Building my skills one exploit at a time 
 </p>
-
----
-
-### 🔭 What I'm Up To
-- **Linux Mastery** — unlocking the power of the terminal
-- **Kali Hacking Tools** — Metasploit, Nmap, Burp Suite, Wireshark & more
-- **Network PenTesting** — sniffing, scanning, and exploring wifi vulnerabilities
-- **Web App Security** — XSS, SQLi, and all things OWASP
-- **Version Control** — Git & GitHub for rock-solid workflow
 
 ---
 
@@ -68,10 +59,10 @@ Hi! I'm <b>Husnain</b>, a curious <b>Computer Science student</b> fueled by a pa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="ssh" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://www.wireshark.org/assets/images/wireshark.svg" alt="wireshark" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/ahmadawais/shields/master/img/burpsuite.png" alt="burpsuite" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/terminal.gif" width="50"/>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/computer.gif" width="40"/>
-  <img src="https://www.wireshark.org/assets/images/wireshark.svg" alt="wireshark" width="45" height="45"/>
-  <img src="https://static-00.iconduck.com/assets.00/burp-suite-icon-2048x2048-n7zmzocn.png" alt="burpsuite" width="40" height="40"/>
 </p>
 
 ---
