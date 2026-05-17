@@ -59,22 +59,6 @@ I'm a Computer Science student passionate about technology and eager to learn. I
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehusnain&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=thehusnain&theme=github_dark_dimmed&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehusnain&theme=github_dark_dimmed&hide_border=true&layout=compact)
-
----
-
-## Top Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=thehusnain&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 *"Every expert was once a beginner. Keep learning, keep building."*
 
 ![](https://github-contributor-stats.vercel.app/api?username=thehusnain&limit=5&theme=dark&combine_all_yearly_contributions=true)
